@@ -16,6 +16,9 @@ body contains "openssl"
 Ссылка на шифрование и расшифрование openssl
 https://itsecforu.ru/2021/05/20/%F0%9F%94%90-%D0%BA%D0%B0%D0%BA-%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8C-%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%B8-%D0%B8/
 ---
+Ссылка на сайт с табличками и EventID
+https://habr.com/ru/post/519774/
+---
 Сайты:
 - https://www.base64encode.org/
 - https://www.crackmd5.ru/
