@@ -20,6 +20,7 @@ https://itsecforu.ru/2021/05/20/%F0%9F%94%90-%D0%BA%D0%B0%D0%BA-%D1%83%D0%BA%D0%
 https://habr.com/ru/post/519774/
 ---
 Сайты:
+- https://www.virustotal.com/
 - https://www.base64encode.org/
 - https://www.crackmd5.ru/
 - https://cryptii.com/pipes/hex-decoder
