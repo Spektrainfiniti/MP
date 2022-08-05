@@ -24,3 +24,7 @@ https://habr.com/ru/post/519774/
 - https://www.base64encode.org/
 - https://www.crackmd5.ru/
 - https://cryptii.com/pipes/hex-decoder
+
+
+
+C:\inetpub\history\CFGHISTORY_0000000001
