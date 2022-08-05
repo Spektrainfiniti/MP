@@ -28,3 +28,4 @@ https://habr.com/ru/post/519774/
 
 
 C:\inetpub\history\CFGHISTORY_0000000001
+root@a77-fw:/home# 
