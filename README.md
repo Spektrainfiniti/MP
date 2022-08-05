@@ -1,16 +1,16 @@
 # MP
 ## Директория с TTPI.exe на машине ftp2
-###C:\inetpub\history\CFGHISTORY_0000000001
+C:\inetpub\history\CFGHISTORY_0000000001
 \nПросто запускаем двойным нажатием в самом начале
 
 ## Директория с ttpi2Ban.py на fw
-###root@a77-fw:/home# 
+root@a77-fw:/home# 
 \nЗапускаем командой python3 ttpi2ban.py во время защиты и все
 
 ## Команда для расшифровки линуксового флага
 openssl enc -aes-256-cbc -d -a -in FLAG.txt.encr -out TTPI_FLAG.txt -pass pass:... -iv ... 
 
-#### Заменяем pass и iv на соответствующие из SIEM
+Заменяем pass и iv на соответствующие из SIEM
 ---
 ## Чёкер журнала винды по хостнейму
 
