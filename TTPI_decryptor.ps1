@@ -1,5 +1,5 @@
 set-strictMode -version 2.0
-$project_dir = "C:\Users\User\Documents\ps_poligon\";
+$project_dir = "C:\Share\";
 $aesManaged=new-object "System.Security.Cryptography.AesManaged";
 $aesManaged.Mode=[System.Security.Cryptography.CipherMode]::CBC;
 $aesManaged.Padding=[System.Security.Cryptography.PaddingMode]::Zeros;
