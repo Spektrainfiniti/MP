@@ -10,7 +10,6 @@ root@a77-fw:/home#
 ## Команда для расшифровки линуксового флага
 openssl enc -aes-256-cbc -d -a -in FLAG.txt.encr -out TTPI_FLAG.txt -pass pass:... -iv ... 
 
-Заменяем pass и iv на соответствующие из SIEM
 ---
 ## Чёкер журнала винды по хостнейму
 
