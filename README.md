@@ -16,7 +16,7 @@ openssl enc -aes-256-cbc -d -a -in FLAG.txt.encr -out TTPI_FLAG.txt -pass pass:.
 Запускать ПКМ
 
 ## TTPI_decryptor  
-В файле поменять $project_dir на "C:\Share\" (не забыть слеш в конце)  
+В файле поменять $project_dir на "C:\Share\" (не забыть слеш в конце)
 Рядом с файлом должен лежать key.txt с ключом в бинарном представлении  
 Запускать ПКМ
 ---
