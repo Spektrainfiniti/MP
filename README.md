@@ -10,6 +10,15 @@ root@a77-fw:/home#
 ## Команда для расшифровки линуксового флага
 openssl enc -aes-256-cbc -d -a -in FLAG.txt.encr -out TTPI_FLAG.txt -pass pass:... -iv ... 
 
+## TTPE-memory_getter  
+В файле поменять $project_dir на "C:\Share\" (не забыть слеш в конце)  
+Также поменять $reg_key_value на значение ключа key_data из реестра (HKCU:\Software\Ransom)  
+Запускать ПКМ
+
+## TTPI_decryptor  
+В файле поменять $project_dir на "C:\Share\" (не забыть слеш в конце)  
+Рядом с файлом должен лежать key.txt с ключом в бинарном представлении  
+Запускать ПКМ
 ---
 ## Чёкер журнала винды по хостнейму
 
