@@ -36,6 +36,12 @@ body contains "python3"
 body contains "openssl"
 ---
 
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+---
+
+body contains "CVE", body contains "Exploit", body contains "Attack", body contains "CryptoAPI"
+
 Сайты:
 - https://www.virustotal.com/
 - https://www.base64encode.org/
