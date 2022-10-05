@@ -38,6 +38,11 @@ body contains "openssl"
 
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
+https://github.com/Ascotbe/Kernelhub
+
+https://github.com/d4t4s3c/Win7Blue
+
+https://raw.githubusercontent.com/tg12/PoC_CVEs/main/cve_links.txt
 ---
 
 body contains "CVE", body contains "Exploit", body contains "Attack", body contains "CryptoAPI"
