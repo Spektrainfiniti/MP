@@ -45,6 +45,7 @@ https://github.com/d4t4s3c/Win7Blue
 https://raw.githubusercontent.com/tg12/PoC_CVEs/main/cve_links.txt
 
 sudo python3 -c 'import os; import crypt; os.system("useradd -p "+ crypt.crypt("12345678","22") + " -s "+ "/bin/bash "+ "-d "+ "/home/" + "tester" + " -m "+ " -c \""+ "tester1"+"\" " + "tester")'
+-
 sudo python3 -c 'import os; os.system("usermod -a -G sudo tester")'
 
 ---
