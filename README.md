@@ -35,6 +35,7 @@ body contains "python3"
 
 body contains "openssl"
 ---
+https://github.com/lockedbyte/CVE-Exploits/tree/master/CVE-2021-3156
 
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
